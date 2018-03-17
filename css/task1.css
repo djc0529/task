@@ -1,0 +1,13 @@
+body {
+    width: 30%;
+}
+.box {
+    background: aquamarine ;
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+    border-radius: 10% ;
+}
+.one{
+    min-width: 466px;
+}
