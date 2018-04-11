@@ -1,0 +1,28 @@
+.header{
+    background:#5fc0cd;
+    width: 100vw;
+    height: 6.79vw;
+    font-size: 3vw;
+    color: #ffffff;
+}
+.guan{
+    width:7.63vw ;
+    height: 2.41vw;
+    margin-top: 2.57vw;
+    margin-left: 4.3vw;
+}
+.deng{
+    width: 7.63vw;
+    height: 2.41vw;
+    margin-top: 2.57vw;
+    text-align: center;
+}
+.zhu{
+    width: 7.63vw;
+    height: 2.41vw;
+    margin-top: 2.57vw;
+    margin-left: 70.22vw;
+}
+.content{
+    background: #eff0f4;
+}
