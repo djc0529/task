@@ -2,87 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7109c41b-0b7b-4391-95e1-fc8d4b6be9ec" name="Default" comment="Default">
-      <change beforePath="" afterPath="$PROJECT_DIR$/JS/小课堂/print.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/JS/小课堂/图片.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/JS/小课堂/盒子模型.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/locked 2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/PPT/小课堂PPT模板.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/css/reveal/bootstrap/css/bootstrap-theme.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/css/reveal/bootstrap/css/bootstrap-theme.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/css/reveal/bootstrap/css/bootstrap-theme.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/css/reveal/bootstrap/css/bootstrap-theme.min.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/css/reveal/bootstrap/css/bootstrap.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/css/reveal/bootstrap/css/bootstrap.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/css/reveal/bootstrap/css/bootstrap.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/css/reveal/bootstrap/css/bootstrap.min.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/css/reveal/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/css/reveal/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/css/reveal/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/css/reveal/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/css/reveal/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/css/reveal/bootstrap/js/bootstrap.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/css/reveal/bootstrap/js/bootstrap.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/css/reveal/bootstrap/js/npm.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/css/reveal/print/paper.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/css/reveal/print/pdf.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/css/reveal/reveal.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/css/reveal/reveal.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/css/reveal/theme/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/css/reveal/theme/beige.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/css/reveal/theme/black.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/css/reveal/theme/blood.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/css/reveal/theme/league.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/css/reveal/theme/moon.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/css/reveal/theme/night.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/css/reveal/theme/ptt.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/css/reveal/theme/serif.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/css/reveal/theme/simple.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/css/reveal/theme/sky.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/css/reveal/theme/solarized.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/css/reveal/theme/source/beige.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/css/reveal/theme/source/black.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/css/reveal/theme/source/blood.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/css/reveal/theme/source/league.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/css/reveal/theme/source/moon.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/css/reveal/theme/source/night.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/css/reveal/theme/source/serif.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/css/reveal/theme/source/simple.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/css/reveal/theme/source/sky.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/css/reveal/theme/source/solarized.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/css/reveal/theme/source/white.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/css/reveal/theme/template/mixins.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/css/reveal/theme/template/settings.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/css/reveal/theme/template/theme.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/css/reveal/theme/white.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/lib/reveal/css/zenburn.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/lib/reveal/font/league-gothic/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/lib/reveal/font/league-gothic/league-gothic.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/lib/reveal/font/league-gothic/league-gothic.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/lib/reveal/font/league-gothic/league-gothic.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/lib/reveal/font/league-gothic/league-gothic.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/lib/reveal/font/source-sans-pro/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/lib/reveal/font/source-sans-pro/source-sans-pro-italic.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/lib/reveal/font/source-sans-pro/source-sans-pro-italic.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/lib/reveal/font/source-sans-pro/source-sans-pro-italic.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/lib/reveal/font/source-sans-pro/source-sans-pro-regular.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/lib/reveal/font/source-sans-pro/source-sans-pro-regular.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/lib/reveal/font/source-sans-pro/source-sans-pro-regular.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/lib/reveal/font/source-sans-pro/source-sans-pro-semibold.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/lib/reveal/font/source-sans-pro/source-sans-pro-semibold.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/lib/reveal/font/source-sans-pro/source-sans-pro-semibold.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/lib/reveal/font/source-sans-pro/source-sans-pro-semibolditalic.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/lib/reveal/font/source-sans-pro/source-sans-pro-semibolditalic.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/lib/reveal/font/source-sans-pro/source-sans-pro-semibolditalic.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/lib/reveal/font/source-sans-pro/source-sans-pro.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/lib/reveal/js/classList.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/lib/reveal/js/head.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/lib/reveal/js/html5shiv.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/lib/reveal/reveal.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/css/task3.css" afterPath="$PROJECT_DIR$/css/task3.css" />
-      <change beforePath="$PROJECT_DIR$/css/task4.css" afterPath="$PROJECT_DIR$/css/task4.css" />
-      <change beforePath="$PROJECT_DIR$/html/task4.html" afterPath="$PROJECT_DIR$/html/task4.html" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -128,8 +48,8 @@
               <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/index.html">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="263">
-                      <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+                    <state relative-caret-position="437">
+                      <caret line="23" column="11" lean-forward="true" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
                       <folding />
                     </state>
                   </provider>
@@ -402,7 +322,7 @@
       <workItem from="1523620837420" duration="59000" />
       <workItem from="1523621351308" duration="3426000" />
       <workItem from="1523674895716" duration="18693000" />
-      <workItem from="1523841555667" duration="861000" />
+      <workItem from="1523841555667" duration="1045000" />
     </task>
     <task id="LOCAL-00001" summary="121">
       <created>1521278971340</created>
@@ -467,11 +387,18 @@
       <option name="project" value="LOCAL" />
       <updated>1522331046970</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Default">
+      <created>1523843407885</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1523843407885</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="267784000" />
+    <option name="totallyTimeSpent" value="267968000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -705,6 +632,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -755,8 +683,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+        <state relative-caret-position="437">
+          <caret line="23" column="11" lean-forward="true" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
           <folding />
         </state>
       </provider>
