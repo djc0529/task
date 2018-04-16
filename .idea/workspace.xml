@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/css/task4.css" line="62" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7109c41b-0b7b-4391-95e1-fc8d4b6be9ec" name="Default" comment="Default">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/css/task4.css" afterPath="$PROJECT_DIR$/css/task4.css" />
+      <change beforePath="$PROJECT_DIR$/html/task4.html" afterPath="$PROJECT_DIR$/html/task4.html" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -25,31 +31,21 @@
         <splitter split-orientation="horizontal" split-proportion="0.4901153">
           <split-first>
             <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-              <file leaf-file-name="task4.html" pinned="false" current-in-tab="false">
+              <file leaf-file-name="task4.html" pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/html/task4.html">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="76">
-                      <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+                    <state relative-caret-position="418">
+                      <caret line="22" column="21" lean-forward="false" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
                       <folding />
                     </state>
                   </provider>
                 </entry>
               </file>
-              <file leaf-file-name="task1.css" pinned="false" current-in-tab="false">
-                <entry file="file://C:/css/task1.css">
-                  <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="0">
-                      <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                      <folding />
-                    </state>
-                  </provider>
-                </entry>
-              </file>
-              <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+              <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
                 <entry file="file://$PROJECT_DIR$/index.html">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="798">
-                      <caret line="42" column="51" lean-forward="true" selection-start-line="42" selection-start-column="51" selection-end-line="42" selection-end-column="51" />
+                    <state relative-caret-position="19">
+                      <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
                       <folding />
                     </state>
                   </provider>
@@ -58,8 +54,8 @@
               <file leaf-file-name="task3.css" pinned="false" current-in-tab="false">
                 <entry file="file://$PROJECT_DIR$/css/task3.css">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="418">
-                      <caret line="22" column="3" lean-forward="false" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="9" />
+                    <state relative-caret-position="111">
+                      <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="19" />
                       <folding />
                     </state>
                   </provider>
@@ -82,8 +78,8 @@
               <file leaf-file-name="task4.css" pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/css/task4.css">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="587">
-                      <caret line="98" column="9" lean-forward="false" selection-start-line="98" selection-start-column="9" selection-end-line="98" selection-end-column="9" />
+                    <state relative-caret-position="513">
+                      <caret line="48" column="19" lean-forward="false" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
                       <folding />
                     </state>
                   </provider>
@@ -151,9 +147,9 @@
         <option value="$PROJECT_DIR$/JS/小课堂/盒子模型.html" />
         <option value="$PROJECT_DIR$/JS/小课堂/小课堂PPT模板.html" />
         <option value="$USER_HOME$/Desktop/小课堂/PPT/小课堂PPT模板.html" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/html/task4.html" />
         <option value="$PROJECT_DIR$/css/task4.css" />
-        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -322,7 +318,7 @@
       <workItem from="1523620837420" duration="59000" />
       <workItem from="1523621351308" duration="3426000" />
       <workItem from="1523674895716" duration="18693000" />
-      <workItem from="1523841555667" duration="1949000" />
+      <workItem from="1523841555667" duration="6993000" />
     </task>
     <task id="LOCAL-00001" summary="121">
       <created>1521278971340</created>
@@ -398,7 +394,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="268872000" />
+    <option name="totallyTimeSpent" value="273916000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
@@ -641,38 +637,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/task3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/task3.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="3" lean-forward="false" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/task4.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="587">
-          <caret line="98" column="9" lean-forward="false" selection-start-line="98" selection-start-column="9" selection-end-line="98" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/task4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/css/task1.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -681,10 +645,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/task3.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="798">
-          <caret line="42" column="51" lean-forward="true" selection-start-line="42" selection-start-column="51" selection-end-line="42" selection-end-column="51" />
+        <state relative-caret-position="19">
+          <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/task3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/task4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="21" lean-forward="false" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/task4.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="48" column="19" lean-forward="false" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
           <folding />
         </state>
       </provider>
