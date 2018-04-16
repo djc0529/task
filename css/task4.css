@@ -1,28 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 .header{
     background:#5fc0cd;
-    width: 100vw;
-    height: 6.79vw;
+    width: 100%;
+    height: 12.5vw;
     font-size: 3vw;
     color: #ffffff;
 }
-.guan{
-    width:7.63vw ;
-    height: 2.41vw;
-    margin-top: 2.57vw;
-    margin-left: 4.3vw;
+.close{
+    position: absolute;
+    top: 2.5vw;
+    margin-left: 5.22vw;
+    font-size: 5vw;
 }
-.deng{
-    width: 7.63vw;
-    height: 2.41vw;
-    margin-top: 2.57vw;
-    text-align: center;
+.enter{
+    position: relative;
+    top: 2.57vw;
+    margin-left: 45.3vw;
+    font-size: 5vw;
 }
-.zhu{
-    width: 7.63vw;
-    height: 2.41vw;
-    margin-top: 2.57vw;
-    margin-left: 70.22vw;
+.login{
+    position: relative;
+    top: 2.5vw;
+    margin-left: 28.22vw;
+    font-size: 5vw;
 }
 .content{
     background: #eff0f4;
+    width: 100%;
+    height:177vw;
+}
+.biank{
+    width: 100%;
+    height: 2.08vw;
+    padding-top: 2vw;
+}
+.gird{
+    background: #ffffff;
+    width: 100%;
+    height: 13.88vw;
+}
+.pasb{
+    position: relative;
+    width: 4.16vw;
+    height: 5.55vw;
+    margin-top: 4.6vw;
+    margin-left: 5.83vw;
+    border-right: solid #eff0f4 0.27vw;
+    padding-right: 6.25vw;
+}
+.biank1{
+    width:100%;
+    height:2.08vw;
+}
+.gird1{
+    background: #ffffff;
+    width: 100%;
+    height: 13.88vw;
+    margin-top: 3rem;
+}
+.pasb1{
+    position: relative;
+    width: 4.16vw;
+    margin-top: 4.6vw;
+    margin-left: 5.83vw;
+    border-right: solid #eff0f4 0.27vw;
+    padding-right: 6.25vw;
+}
+.biank2{
+    width:100%;
+    height: 5.89vw;
+}
+.gird2 button{
+   width: 100%;
+    height: 13.88vw;
+    margin-top: 9.58vw;
+}
+.cipher{
+    position: relative;
+    height: 6.67vw;
+    top: -2vw;
+    border: none;
+    outline: none;
+    font-size: 4.16vw;
+}
+.enter2{
+    width: 100%;
+    height: 13.88vw;
+    margin-top: 4rem;
+    background: #5fc0cd;
+    font-size: 5vw;
+    color: #eff0f4;
+    outline: none;
+    border: none;
+}
+. footer{
+    width: 100%;
+    height: 6.94vw;
+}
+.forget{
+    font-size: 4.16vw;
+    margin-left: 73vw;
+    color: #5fc0cd;
 }
