@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7109c41b-0b7b-4391-95e1-fc8d4b6be9ec" name="Default" comment="Default">
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/PPT/赖俊峰的小课堂.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/css/task4.css" afterPath="$PROJECT_DIR$/css/task4.css" />
+      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,11 +29,21 @@
         <splitter split-orientation="horizontal" split-proportion="0.5076718">
           <split-first>
             <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-              <file leaf-file-name="task5.html" pinned="false" current-in-tab="true">
+              <file leaf-file-name="task5.html" pinned="false" current-in-tab="false">
                 <entry file="file://$PROJECT_DIR$/html/task5.html">
                   <provider selected="true" editor-type-id="text-editor">
                     <state relative-caret-position="266">
                       <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+                      <folding />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/index.html">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="624">
+                      <caret line="39" column="41" lean-forward="false" selection-start-line="39" selection-start-column="41" selection-end-line="39" selection-end-column="41" />
                       <folding />
                     </state>
                   </provider>
@@ -136,11 +145,11 @@
         <option value="$PROJECT_DIR$/JS/小课堂/盒子模型.html" />
         <option value="$PROJECT_DIR$/JS/小课堂/小课堂PPT模板.html" />
         <option value="$USER_HOME$/Desktop/小课堂/PPT/小课堂PPT模板.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/task5.css" />
         <option value="$PROJECT_DIR$/html/task5.html" />
         <option value="$PROJECT_DIR$/html/task4.html" />
         <option value="$PROJECT_DIR$/css/task4.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -309,7 +318,7 @@
       <workItem from="1523862162009" duration="1884000" />
       <workItem from="1523867611542" duration="4493000" />
       <workItem from="1523877925311" duration="4162000" />
-      <workItem from="1523927744425" duration="5627000" />
+      <workItem from="1523927744425" duration="5709000" />
     </task>
     <task id="LOCAL-00001" summary="121">
       <created>1521278971340</created>
@@ -381,11 +390,18 @@
       <option name="project" value="LOCAL" />
       <updated>1523843407885</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Default">
+      <created>1523950235313</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1523950235313</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="292234000" />
+    <option name="totallyTimeSpent" value="292316000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -619,13 +635,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/task3.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="111">
@@ -669,6 +678,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="39" column="41" lean-forward="false" selection-start-line="39" selection-start-column="41" selection-end-line="39" selection-end-column="41" />
           <folding />
         </state>
       </provider>
