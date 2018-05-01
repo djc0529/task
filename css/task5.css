@@ -1,0 +1,218 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: #5fc0cd;
+    width: 100%;
+    height: 13.38vw;
+    color: #ffffff;
+    font-size: 5vw;
+    position: absolute;
+}
+.header img{
+    width: 4vw;
+    height: auto;
+    position: absolute;
+    margin-top: 3.47vw;
+    margin-left: 4.58vw;
+}
+.header span{
+    position: absolute;
+   margin-left: 40.41vw;
+margin-top: 3vw;
+}
+.main{
+    color: #ffffff;
+    width: 100%;
+  height:128.75vw;
+    position: relative;
+}
+.seeting{
+    width: 100%;
+    margin-top: 13.3vw;
+    height: 57.08vw;
+}
+.heaed{
+    width: 24.02vw;
+    height: 23.88vw;
+    position: absolute;
+    top: 23.33vw;
+   left: 4.02vw;
+}
+.top{
+    position: absolute;
+    top: 27.77vw;
+    left: 35.19vw;
+    font-size: 3vw;
+}
+.years{
+    position: absolute;
+    top: 27.77vw;
+    left:48.94vw;
+    font-size: 3vw;
+}
+.punctuation{
+    position: absolute;
+    left: 35.19vw;
+    top: 35.55vw;
+}
+.beijing{
+    position: absolute;
+    top: 35.55vw;
+    left: 41.19vw;
+    font-size: 2vw;
+}
+.to{
+    margin-left: 4.02vw;
+    border-left: solid #5fc0cd 0.27vw;
+    color: #333333;
+    font-size: 3vw;
+    margin-top: 4vw;
+ }
+.career{
+    margin-left: 3.88vw;
+}
+.line{
+    margin-top:4.72vw;
+}
+.pointed{
+    width: 3.33vw;
+    height: 3.19vw;
+    margin-top: 5vw;
+    margin-left: 8.61vw;
+}
+.home{
+    color: #333333;
+    font-size: 3vw;
+    margin-left: 1.25vw;
+padding-right: 2.91vw;
+    border-right: solid #eff0f4 0.13vw;
+}
+.star{
+    width: 3.33vw;
+    height: 3.19vw;
+    margin-left: 2.36vw;
+}
+.meal{
+    color: #333333;
+    font-size: 3vw;
+    margin-left: 1.66vw;
+}
+.below{
+    margin-left: 4.58vw;
+margin-top: 4.86vw;
+}
+.age{
+    position: absolute;
+    color: #999999;
+    font-size: 3vw;
+    margin-top: 4.72vw;
+    margin-left: 8.33vw;
+    border-right: solid #eff0f4 0.13vw;
+    padding-right: 3.47vw;
+}
+.time{
+    position: absolute;
+    color: #333333;
+    font-size: 3vw;
+    padding-top: 4.72vw;
+    padding-left: 28.88vw;
+}
+.below2{
+    margin-top: 13.61vw;
+    margin-left: 4.58vw;
+}
+.work{
+
+    position: absolute;
+    color: #999999;
+    font-size: 3vw;
+    margin-top: 4.72vw;
+    margin-left: 8.33vw;
+    border-right: solid #eff0f4 0.13vw;
+    padding-right: 3.47vw;
+}
+.long{
+    position: absolute;
+    color: #333333;
+    font-size: 3vw;
+    padding-top: 4.72vw;
+    padding-left: 28.88vw;
+}
+.below3{
+    margin-top: 13.61vw;
+    margin-left: 4.58vw;
+}
+.serve{
+    position: absolute;
+    color: #999999;
+    font-size: 3vw;
+    margin-top: 4.72vw;
+    margin-left: 8.33vw;
+    border-right: solid #eff0f4 0.13vw;
+    padding-right: 3.47vw;
+}
+.hour{
+    position: absolute;
+    color: #e26163;
+    font-size: 3vw;
+    padding-top: 4.72vw;
+    padding-left: 28.88vw;
+}
+.below4{
+    margin-top: 13.61vw;
+    margin-left: 4.58vw;
+}
+.onselfe{
+    position: absolute;
+    color: #999999;
+    font-size: 3vw;
+    margin-top: 4.72vw;
+    margin-left: 8.33vw;
+    border-right: solid #eff0f4 0.13vw;
+    padding-right: 3.47vw;
+}
+.character{
+    color:#333333;
+    font-size: 3vw;
+    margin-left: 29.16vw;
+    margin-top: 2.63vw;
+}
+.character1{
+    color:#333333;
+    font-size: 3vw;
+    margin-left: 29.16vw;
+}
+.concent1{
+    margin-top: 2.36vw;
+}
+.footer{
+    margin-bottom: 4.38vw;
+}
+.enter1{
+    border: #5fc0cd solid 0.2vw;
+    margin-top: 45.41vw;
+    width: 42.97vw;
+    height: 12.22vw;
+    font-size: 4vw;
+    background: #ffffff;
+    color: #5fc0cd;
+  border-radius: 1vw;
+    outline: none ;
+    margin-left: 5vw;
+}
+.enter2{
+    position: absolute;
+    margin-left: 3.33vw;
+    width: 42.97vw;
+    color: #ffffff;
+    background: #5fc0cd;
+    height: 12.22vw;
+    margin-top: 45.41vw;
+    font-size: 4vw;
+    border-radius: 1vw;
+    outline: none;
+    border: none;
+}
+
