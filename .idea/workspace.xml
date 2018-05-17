@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="7109c41b-0b7b-4391-95e1-fc8d4b6be9ec" name="Default" comment="11">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/html/tetssad.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/css/task6.css" afterPath="$PROJECT_DIR$/css/task6.css" />
+      <change beforePath="$PROJECT_DIR$/html/task6.html" afterPath="$PROJECT_DIR$/html/task6.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,8 +31,8 @@
           <file leaf-file-name="task6.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/html/task6.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="2926">
-                  <caret line="231" column="14" lean-forward="false" selection-start-line="231" selection-start-column="14" selection-end-line="231" selection-end-column="14" />
+                <state relative-caret-position="304">
+                  <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
                   <folding />
                 </state>
               </provider>
@@ -44,8 +45,8 @@
           <file leaf-file-name="task6.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/task6.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="6973">
-                  <caret line="469" column="12" lean-forward="false" selection-start-line="469" selection-start-column="12" selection-end-line="469" selection-end-column="12" />
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -54,7 +55,7 @@
           <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="594">
+                <state relative-caret-position="722">
                   <caret line="38" column="8" lean-forward="false" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
                   <folding />
                 </state>
@@ -146,11 +147,11 @@
         <option value="$PROJECT_DIR$/css/task4.css" />
         <option value="$PROJECT_DIR$/css/task5.css" />
         <option value="$PROJECT_DIR$/小课堂/PPT/2018.5.3-B.html" />
-        <option value="$PROJECT_DIR$/html/task6.html" />
         <option value="$PROJECT_DIR$/html/task5.html" />
-        <option value="$PROJECT_DIR$/css/task6.css" />
         <option value="$PROJECT_DIR$/html/test.html" />
         <option value="$PROJECT_DIR$/html/tetssad.html" />
+        <option value="$PROJECT_DIR$/css/task6.css" />
+        <option value="$PROJECT_DIR$/html/task6.html" />
       </list>
     </option>
   </component>
@@ -184,8 +185,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -196,12 +195,14 @@
             <path>
               <item name="task" type="b2602c69:ProjectViewProjectNode" />
               <item name="task" type="462c0819:PsiDirectoryNode" />
-              <item name="html" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -343,6 +344,7 @@
       <workItem from="1526475726336" duration="2551000" />
       <workItem from="1526478291428" duration="1204000" />
       <workItem from="1526519406248" duration="5381000" />
+      <workItem from="1526558069554" duration="127000" />
     </task>
     <task id="LOCAL-00001" summary="121">
       <created>1521278971340</created>
@@ -498,11 +500,18 @@
       <option name="project" value="LOCAL" />
       <updated>1526557928729</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="11">
+      <created>1526557966534</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1526557966535</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="562243000" />
+    <option name="totallyTimeSpent" value="562455000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -561,16 +570,8 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/小课堂/小课堂PPT模板.html" />
-    <entry file="file://$PROJECT_DIR$/JS/小课堂/图片.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS/小课堂/print.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/JS/小课堂/图片.jpg" />
+    <entry file="file://$PROJECT_DIR$/JS/小课堂/print.jpg" />
     <entry file="file://$PROJECT_DIR$/img/psb.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -578,13 +579,7 @@
     </entry>
     <entry file="file://$USER_HOME$/Desktop/小课堂/PPT/小课堂PPT模板.html" />
     <entry file="file://$PROJECT_DIR$/img/fang_3.png" />
-    <entry file="file://$PROJECT_DIR$/JS/小课堂/盒子模型.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="199" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/JS/小课堂/盒子模型.html" />
     <entry file="file://$PROJECT_DIR$/img/box-fillde-ch.png" />
     <entry file="file://$PROJECT_DIR$/img/fang_1.png" />
     <entry file="file://$PROJECT_DIR$/img/fang_4.png" />
@@ -688,20 +683,8 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Default.patch">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/Default.patch" />
     <entry file="file://$PROJECT_DIR$/小课堂/PPT/1045-css-6.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="358">
@@ -713,7 +696,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1278">
           <caret line="197" column="0" lean-forward="true" selection-start-line="197" selection-start-column="0" selection-end-line="197" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -745,31 +727,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="727">
-          <caret line="45" column="44" lean-forward="true" selection-start-line="45" selection-start-column="44" selection-end-line="45" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/html/index.html" />
+    <entry file="file://$PROJECT_DIR$/html/test.html" />
     <entry file="file://$PROJECT_DIR$/小课堂/PPT/2018.5.3-B.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="93" column="25" lean-forward="true" selection-start-line="93" selection-start-column="25" selection-end-line="93" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -777,54 +743,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="17" column="23" lean-forward="false" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/小课堂.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="6" lean-forward="false" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/html/小课堂.html" />
     <entry file="file://$PROJECT_DIR$/小课堂/PPT/小课堂PPT模板.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="22" column="132" lean-forward="true" selection-start-line="22" selection-start-column="132" selection-end-line="22" selection-end-column="132" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
+        <state relative-caret-position="722">
           <caret line="38" column="8" lean-forward="false" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/tetssad.html" />
+    <entry file="file://$PROJECT_DIR$/css/task6.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html/task6.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2926">
-          <caret line="231" column="14" lean-forward="false" selection-start-line="231" selection-start-column="14" selection-end-line="231" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/task6.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6973">
-          <caret line="469" column="12" lean-forward="false" selection-start-line="469" selection-start-column="12" selection-end-line="469" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/tetssad.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        <state relative-caret-position="304">
+          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
           <folding />
         </state>
       </provider>

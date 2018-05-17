@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 *{
     margin: 0;
     padding: 0;
@@ -169,7 +168,6 @@ height: 5.69vw;
     margin-top: 9.16vw;
     font-size: 3vw;
 }
-=======
 *{
     margin: 0;
     padding: 0;
@@ -467,7 +465,7 @@ height: 5.69vw;
     background: #f8fafb;
     position: fixed;
     width: 100%;
-bottom: 0vw;
+bottom:0vw;
 }
 .footeer hr{
     width: 100%;
@@ -504,4 +502,3 @@ height: 5.69vw;
     margin-top: 9.16vw;
     font-size: 3vw;
 }
->>>>>>> origin/master
