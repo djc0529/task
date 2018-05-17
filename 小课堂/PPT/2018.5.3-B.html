@@ -36,7 +36,7 @@
 	<div class="slides">
 		<section>
 			<h4>小课堂【萌新】</h4>
-			<h4>px、em、rem、%、vw、wh、vm等单位有什么区别？</h4>
+			<h4>手机分辨率和网页中的PX是一回事吗？</h4>
 			<h4>分享人：段俊超</h4>
 		</section>
 		<section>
@@ -45,83 +45,104 @@
 			<p>3.常见问题</p>
 			<p>4.解决方案</p>
 			<p>5.编码实战</p>
+			<p>6.扩展思考</p>
+			<p>7.参考文献</p>
 		</section>
 		<section>
 			<h3>1.背景介绍</h3>
 		</section>
 		<section>
-			<p>传统的项目开发中，我们只会用到px、%、em这几个单位，它可以适用于大部分的项目开发，并且拥有比较良好的兼容性。
-				但是你知道吗？从css3开始，浏览器对逻辑单位的支持又提升到了另外一个境界，增加了rem、vh、vw、vm等一些新的长度单位，
-				我们可以利用这些新的单位开发出比较良好的响应式页面，
-				随之覆盖多种不同分辨率的终端，包括移动设备等。现在让我们来看下这些长度单位有什么区别。
+			首先，什么是viewport。
+			通俗的讲，移动设备上的viewport就是设备的屏幕上能用来显示我们的网页的那一块区域。
+			再具体一点，就是浏览器上用来显示网页的那部分区域，但viewport又不局限于浏览器可视区域的大小，
+			它可能比浏览器的可视区域要大，也可能比浏览器的可视区域要小。
+		</section>
+		<section>
+			什么是绝对长度单位？什么是相对长度单位？
+		</section>
+		<section>
+			<p>
+				绝对长度单位：in（inch英寸）、cm（厘米）、mm（毫米）、pt（磅）、pc（pica）。 in、cm、mm和实际中的常用单位完全相同。
+				pt是标准印刷上常用的单位，72pt的长度为1英寸。
+				pc也是印刷上用的单位，1pc的长度为12磅。绝对长度单位，虽然理解起来很容易，但是在网页的设计中很少用到。
+			</p>
+			<p>
+				相对长度单位：是网页设计中使用最多的长度单位，包括px、em、rem等。
 			</p>
 		</section>
 		<section>
 			<h3>2.知识解析</h3>
 		</section>
 		<section>
-			<p>1、
-				px就是pixel的缩写，意为像素。px就是一张图片最小的一个点，一张位图就是千千万万的这样的点构成的，
-				比如常常听到的电脑像素是1024x768的，表示的是水平方向是1024个像素点，垂直方向是768个像素点。
-			</p>
-			<p>
-				2、
-				em参考物是父元素的font-size，具有继承的特点。如果自身定义了font-size按自身来计算（浏览器默认字体是16px），
-				整个页面内1em不是一个固定的值。
-			</p>
-			<p>
-				3、rem
-				css3新单位，相对于根元素html（网页）的font-size，不会像em那样，依赖于父元素的字体大小，而造成混乱。
-			</p>
-		</section>
-			<section>
-			<p>4、%
-				一般宽泛的讲是相对于父元素，但是并不是十分准确。
-				1、对于普通定位元素就是我们理解的父元素
-				2、对于position: absolute;的元素是相对于已定位的父元素
-				3、对于position: fixed;的元素是相对于ViewPort（可视窗口）</p>
+			什么是屏幕尺寸、屏幕分辨率、屏幕像素密度？
 		</section>
 		<section>
-			<p>5.
-				vw
-				css3新单位，viewpoint width的缩写，视窗宽度，1vw等于视窗宽度的1%。
-				举个例子：浏览器宽度1200px, 1 vw = 1200px/100 = 12 px。
+			<p>
+				屏幕尺寸:指屏幕的对角线的长度，单位是英寸，1英寸=2.54厘米。常见的屏幕尺寸有4.2、4.7、5.5、6.0等。
+			</p>
+			<P>
+				屏幕分辨率：指在横纵向上的像素点数，单位是px，1px=1个像素点。 一般以纵向像素*横向像素来表示一个手机的分辨率，
+				如1960*1080。(这里的1像素值得是物理设备的1个像素点)
+			</P>
+			<P>
+				屏幕像素密度：屏幕上每英寸可以显示的像素点的数量，单位是ppi，即“pixels per inch”的缩写。
+				屏幕像素密度与屏幕尺寸和屏幕分辨率有关，在单一变化条件下，屏幕尺寸越小、分辨率越高，像素密度越大，反之越小
+			</p>
+		</section>
+		<section>
+			<p>
+				如何计算像素密度？
+				计算像素密度的公式： 通过勾股定理算出对角线的分辨率，然后在除以屏幕的尺寸
 			</p>
 			<p>
-			 6.vh
-			css3新单位，viewpoint height的缩写，视窗高度，1vh等于视窗高度的1%。
-			举个例子：浏览器高度900px, 1 vh = 900px/100 = 9 px。
-		</p>
-			</section>
-		<section>
-			<p>7.
-				vm
-				css3新单位，相对于视口的宽度或高度中较小的那个。其中最小的那个被均分为100单位的vm
-				举个例子：浏览器高度900px，宽度1200px，取最小的浏览器高度，1 vm = 900px/100 = 9 px。
-				由于现在vm的兼容性较差，这里就不做展示了。
+				viewport的概念
+				移动设备上的viewport就是设备的屏幕上能用来显示我们的网页的那一块区域 一般来讲，
+				移动设备上的viewport都是要大于浏览器可视区域
+				的，这是因为考虑到移动设备的分辨率相对于 桌面电脑来说都比较小，所以为了能在移动设备上正常显示那些传统的为桌面浏览器设计
+				的网站， 移动设备上的浏览器都会把自己默认的viewport设为980px或1024px（也可能是其它值，这个是由设备自己决定的）， 但带来
+				的后果就是浏览器会出现横向滚动条，因为浏览器可视区域的宽度是比这个默认的viewport的宽度要小的。
 			</p>
+		</section>
+		<section>
+			width	设置layout viewport 的宽度，为一个正整数，或字符串"width-device"
+			initial-scale	设置页面的初始缩放值，为一个数字，可以带小数
+			minimum-scale	允许用户的最小缩放值，为一个数字，可以带小数
+			maximum-scale	允许用户的最大缩放值，为一个数字，可以带小数
+			height	设置layout viewport 的高度，这个属性对我们并不重要，很少使用
+			user-scalable	是否允许用户进行缩放，值为"no"或"yes", no 代表不允许，yes代表允许
 		</section>
 		<section>
 			<h3>3.常见问题</h3>
 		</section>
 		<section>
-		问题一：
-		为什么一开始在css样式中给body设置font-size：62.5%？
-		问题二：
-		在谷歌浏览器运行以下代码，1em是显示多大的字体？
+			当UI设计师给一个图的时候，为什么同是一个尺寸（px）而两者的大小不一样
 		</section>
 		<section>
 			<h3>4.解决方案</h3>
 		</section>
 		<section>
-			答案一：
-			Font-size=62.5%这就使em值变为16px*62.5%=10px。这样1em=10px，1.2em=12px利于我们进行换算。
-			答案二：
-			谷歌浏览器强制最小字体为12号，即使设置成 10px 最终都会显示成 12px
-			当把html的font-size设置成10px,子节点rem的计算还是以12px为基准。
+			在Android中，规定以160dpi为基准，1dp=1px。如果密度是320dpi，则1dp=2px，以此类推。 Android和IOS都会通过转
+			换系数让控件适应屏幕的尺寸。一个按钮给了44*44dp的大小，在160dpi密度的 时候，
+			按钮就是44*44px大小；在320dpi密度的时候，按钮就是88*88px的大小。不需要我们去书写多套尺寸
 		</section>
 		<section>
 			<h3>5.编码实战</h3>
+		</section>
+		<section>
+			<p>6.扩展思考</p>
+			移动端常用的方案有哪些？
+		</section>
+		<section>
+			简单方法简单解决(使用PX)
+			代表：拉钩网
+			弹性布局
+			开发原则：文字流式，控件弹性，图片等比缩放
+		</section>
+		<section>
+			使用rem布局
+			代表：网易、淘宝
+			使用rem布局结合在html上根据不同分辨率设置不同font-size有很多不好解决的麻烦， 网易是如何解决的呢？最根本的原因在于，
+			网易页面上html的font-size不是预先通过媒介查询在css里定义好的， 而是通过js计算出来的。
 		</section>
 		<section>
 			<h4>鸣谢</h4>
@@ -131,7 +152,7 @@
 				<small style="vertical-align: middle">段俊超</small>
 			</p>
 		</section>
-	 </div>
+	</div>
 </div>
 <script src="../lib/reveal/js/head.min.js"></script>
 <script src="../lib/reveal/reveal.js"></script>
@@ -163,8 +184,8 @@
             {src: '../plugin/notes/notes.js', async: true},
             {
                 src: '../plugin/highlight/highlight.js', async: true, callback: function () {
-                hljs.initHighlightingOnLoad();
-            }
+                    hljs.initHighlightingOnLoad();
+                }
             }
         ]
     });
