@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7109c41b-0b7b-4391-95e1-fc8d4b6be9ec" name="Default" comment="11">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/html/task7.3html.html" afterPath="$PROJECT_DIR$/html/task7.3html.html" />
+      <change beforePath="$PROJECT_DIR$/css/task7.3css.css" afterPath="$PROJECT_DIR$/css/task7.3css.css" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change beforePath="$PROJECT_DIR$/小课堂/PPT/小课堂PPT模板.html" afterPath="$PROJECT_DIR$/小课堂/PPT/小课堂PPT模板.html" />
     </list>
@@ -50,8 +50,8 @@
           <file leaf-file-name="task7.3css.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/task7.3css.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="590">
-                  <caret line="92" column="19" lean-forward="false" selection-start-line="92" selection-start-column="19" selection-end-line="92" selection-end-column="19" />
+                <state relative-caret-position="723">
+                  <caret line="42" column="19" lean-forward="true" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
                   <folding />
                 </state>
               </provider>
@@ -129,8 +129,8 @@
         <option value="$PROJECT_DIR$/html/task8.html" />
         <option value="$PROJECT_DIR$/html/task7.2.html" />
         <option value="$PROJECT_DIR$/css/task7.2.css" />
-        <option value="$PROJECT_DIR$/css/task7.3css.css" />
         <option value="$PROJECT_DIR$/html/task7.3html.html" />
+        <option value="$PROJECT_DIR$/css/task7.3css.css" />
       </list>
     </option>
   </component>
@@ -375,7 +375,7 @@
       <workItem from="1528507402724" duration="22465000" />
       <workItem from="1528680760781" duration="21470000" />
       <workItem from="1528765010217" duration="31111000" />
-      <workItem from="1528850792522" duration="4669000" />
+      <workItem from="1528850792522" duration="4991000" />
     </task>
     <task id="LOCAL-00001" summary="121">
       <created>1521278971340</created>
@@ -671,11 +671,18 @@
       <option name="project" value="LOCAL" />
       <updated>1528877580780</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="11">
+      <created>1528882503854</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1528882503855</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="887666000" />
+    <option name="totallyTimeSpent" value="887988000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -990,14 +997,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/task7.3css.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="590">
-          <caret line="92" column="19" lean-forward="false" selection-start-line="92" selection-start-column="19" selection-end-line="92" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/html/task7.3html.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -1007,6 +1006,14 @@
             <element signature="n#style#0;n#hr#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#hr#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/task7.3css.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="723">
+          <caret line="42" column="19" lean-forward="true" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
