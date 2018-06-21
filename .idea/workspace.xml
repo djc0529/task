@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7109c41b-0b7b-4391-95e1-fc8d4b6be9ec" name="Default" comment="11">
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/PPT/2018.6.21.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/html/task7.3html.html" afterPath="$PROJECT_DIR$/html/task7.3html.html" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="$PROJECT_DIR$/小课堂/PPT/2018.6.21.html" afterPath="$PROJECT_DIR$/小课堂/PPT/2018.6.18.html" />
       <change beforePath="$PROJECT_DIR$/小课堂/PPT/小课堂PPT模板.html" afterPath="$PROJECT_DIR$/小课堂/PPT/小课堂PPT模板.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -390,7 +389,7 @@
       <workItem from="1529156498802" duration="642000" />
       <workItem from="1529239649039" duration="914000" />
       <workItem from="1529283372559" duration="1468000" />
-      <workItem from="1529545082818" duration="9285000" />
+      <workItem from="1529545082818" duration="9449000" />
     </task>
     <task id="LOCAL-00001" summary="121">
       <created>1521278971340</created>
@@ -721,11 +720,18 @@
       <option name="project" value="LOCAL" />
       <updated>1529138691651</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="11">
+      <created>1529570611324</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1529570611324</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="923201000" />
+    <option name="totallyTimeSpent" value="923365000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1028,6 +1034,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="680">
           <caret line="45" column="49" lean-forward="false" selection-start-line="45" selection-start-column="49" selection-end-line="45" selection-end-column="49" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1052,7 +1059,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/小课堂/PPT/2018.6.21.html">
+    <entry file="file://$PROJECT_DIR$/小课堂/PPT/2018.6.18.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="167">
           <caret line="38" column="30" lean-forward="false" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="30" />
