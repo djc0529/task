@@ -2,28 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7109c41b-0b7b-4391-95e1-fc8d4b6be9ec" name="Default" comment="11">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/fileColors.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/duanjunchao.zip" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/task.8.3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/task.8.66.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/task.8.St97DV3v.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/task.8.V528201337F9_L.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/task.8.alibaba.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/task8.253.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/task8.28.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/task8.288.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/task8.861393.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/task8.Avatar1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/task8.Avatar2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/task8.a.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/task8.pic.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/task8.user.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/task888png.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/PPT/2018.6.29.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/css/task8.css" afterPath="$PROJECT_DIR$/css/task8.css" />
       <change beforePath="$PROJECT_DIR$/html/task8.html" afterPath="$PROJECT_DIR$/html/task8.html" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="$PROJECT_DIR$/小课堂/PPT/2018.6.29.html" afterPath="$PROJECT_DIR$/小课堂/PPT/2018.6.29.html" />
       <change beforePath="$PROJECT_DIR$/小课堂/PPT/小课堂PPT模板.html" afterPath="$PROJECT_DIR$/小课堂/PPT/小课堂PPT模板.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -42,30 +24,48 @@
     </favorites_list>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2018.6.29.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/小课堂/PPT/2018.6.29.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-38">
-              <caret line="34" column="33" lean-forward="false" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="33" />
-              <folding>
-                <element signature="n#style#0;n#section#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="task8.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/task8.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2394">
-              <caret line="24" column="32" lean-forward="true" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="2018.6.29.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/小课堂/PPT/2018.6.29.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="133">
+                  <caret line="34" column="29" lean-forward="false" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+                  <folding>
+                    <element signature="n#style#0;n#section#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="task8.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/html/task8.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="641">
+                  <caret line="218" column="29" lean-forward="false" selection-start-line="218" selection-start-column="29" selection-end-line="218" selection-end-column="29" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="task8.css" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/css/task8.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="247">
+                  <caret line="19" column="1" lean-forward="false" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -134,8 +134,8 @@
         <option value="$PROJECT_DIR$/小课堂/PPT/2018.6.21.html" />
         <option value="$PROJECT_DIR$/小课堂/PPT/2018.6.31.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/html/task8.html" />
         <option value="$PROJECT_DIR$/css/task8.css" />
+        <option value="$PROJECT_DIR$/html/task8.html" />
         <option value="$PROJECT_DIR$/小课堂/PPT/2018.6.29.html" />
       </list>
     </option>
@@ -434,14 +434,7 @@
       <workItem from="1530014582230" duration="2620000" />
       <workItem from="1530062843769" duration="6686000" />
       <workItem from="1530147617652" duration="9420000" />
-      <workItem from="1530234538298" duration="7136000" />
-    </task>
-    <task id="LOCAL-00001" summary="121">
-      <created>1521278971340</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1521278971340</updated>
+      <workItem from="1530234538298" duration="10706000" />
     </task>
     <task id="LOCAL-00002" summary="121">
       <created>1521279075594</created>
@@ -779,11 +772,18 @@
       <option name="project" value="LOCAL" />
       <updated>1529570768826</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="11">
+      <created>1530258574137</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1530258574137</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1033775000" />
+    <option name="totallyTimeSpent" value="1037345000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1096,6 +1096,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="779">
           <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1113,14 +1114,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/task8.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/sectional.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
@@ -1129,18 +1122,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/task8.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="19" column="1" lean-forward="false" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/html/task8.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2394">
-          <caret line="24" column="32" lean-forward="true" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+        <state relative-caret-position="641">
+          <caret line="218" column="29" lean-forward="false" selection-start-line="218" selection-start-column="29" selection-end-line="218" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/小课堂/PPT/2018.6.29.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-38">
-          <caret line="34" column="33" lean-forward="false" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="33" />
+        <state relative-caret-position="133">
+          <caret line="34" column="29" lean-forward="false" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
           <folding>
             <element signature="n#style#0;n#section#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
