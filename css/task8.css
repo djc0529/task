@@ -2,6 +2,9 @@
     margin: 0;
     padding: 0;
 }
+.wrap{
+    background: #fafafa;
+}
 .header-main{
     width: 100%;
     color: #29b078;
@@ -24,7 +27,38 @@
     float: right;
     color: #ffffff;
     margin-top: 3.5rem;
-    text-indent: 3.5rem;
+}
+.page{
+    margin-right: 1.5rem;
+}
+.page:hover{
+    color: #fff;
+    border-bottom: 4px solid #fff;
+    padding-bottom: 2.6rem;
+}
+.profession{
+    margin-right: 1.5rem;
+}
+.profession:hover{
+    color: #fff;
+    border-bottom: 4px solid #fff;
+    padding-bottom: 2.6rem;
+}
+.recommend{
+    margin-right: 1.5rem;
+}
+.recommend:hover{
+    color: #fff;
+    border-bottom: 4px solid #fff;
+    padding-bottom: 2.6rem;
+}
+.regard{
+   margin-right: 1.5rem;
+}
+.regard:hover{
+    color: #fff;
+    border-bottom: 4px solid #fff;
+    padding-bottom: 2.6rem;
 }
 .first-row {
     margin: 10rem 0;
@@ -116,32 +150,75 @@
     border-radius: 4rem;
     margin-right:0.2rem;
     box-shadow: 0 0 5px #999999;
-    background: #999999;
+    background: #ffffff;
+}
+.cve:hover{
+    background: #29b078;
 }
 .group-company {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
     margin: 5rem 0;
-    box-shadow: 0 0 5px #999999;
+}
+.cved{
+    margin-bottom: 3rem;
+    color: #999999;
 }
 .row{
     text-align: center;
 }
+.nnm{
+    margin-top: 3rem;
+    font-size: 2rem;
+}
 .company{
     height: 18rem;
-    width: 19rem;
+    width: 18.5rem;
     background: #ffffff;
     border: 0;
 }
+.company:hover{
+    border: 2px solid #ddd;
+    box-shadow: 5px 5px 5px 5px #999999;
+}
+aside {
+    width: 100%;
+    background: #ffffff;
+}
 
+.group-links {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.group-links span:hover{
+    border-bottom: 2px solid #29b078;
+}
+.group-links div {
+    line-height: 4rem;
+    white-space:nowrap;
+}
+.cot{
+    background: #ffffff;
+}
 
-
-
-
-
-
-
+footer {
+    color: #ffffff;
+    background: #29b078;
+    width: 100%;
+}
+.trick{
+    display: block;
+    height: 15rem;
+}
+.djc{
+    margin-top: 3rem;
+}
+.dj{
+    margin-top: 3rem;
+    float: right;
+}
 
 
 

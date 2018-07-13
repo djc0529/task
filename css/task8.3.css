@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.wrap{
+    background: #fafafa;
+}
+.header-main{
+    width: 100%;
+    color: #29b078;
+    display: flex;
+    justify-content:space-between ;
+    margin-top:1rem;
+    margin-bottom: 0.5rem;
+}
+.navigation{
+    width: 100%;
+    background: #29b078;
+    height:9.4rem;
+}
+.xte{
+    width: 100%;
+}
+.option{
+    font-size: 2.5rem;
+    display: flex;
+    float: right;
+    color: #ffffff;
+    margin-top: 3.5rem;
+}
+.page{
+    margin-right: 1.5rem;
+}
+.page:hover{
+    color: #fff;
+    background-color: transparent;
+    border-bottom: 4px solid #fff;
+    padding-bottom: 2.6rem;
+}
+.profession{
+    margin-right: 1.5rem;
+}
+.profession:hover{
+    color: #fff;
+    border-bottom: 4px solid #fff;
+    padding-bottom: 2.6rem;
+}
+.recommend{
+    margin-right: 1.5rem;
+}
+.recommend:hover{
+    color: #fff;
+    border-bottom: 4px solid #fff;
+    padding-bottom: 2.6rem;
+}
+.regard{
+    margin-right: 1.5rem;
+}
+.regard:hover{
+    color: #fff;
+    border-bottom: 4px solid #fff;
+    padding-bottom: 2.6rem;
+}
+.pag{
+    margin-top: 2rem;
+}
+.firm{
+    color: #29b078;
+}
+.text-career span:hover{
+    background: #29b078;
+    color: #ffffff;
+}
