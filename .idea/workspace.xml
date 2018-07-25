@@ -2,22 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7109c41b-0b7b-4391-95e1-fc8d4b6be9ec" name="Default" comment="11">
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/task8.2.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/task8.3.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/text.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/html/task8.2.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/html/task8.3.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/html/text.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/task.8.223.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/task8.1280.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/task8.220.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/task8888888.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/PPT/2018.7.12-A.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/task.8..21.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/task8...23.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/PPT/2018.7.23-A.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/css/img/20180724103740.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/css/img/220180724104013.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/css/img/3320180724104132.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/css/img/4420180724104714.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/css/img/5520180724104921.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/小课堂/css/img/6620180724152145.png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/css/task8.2.css" afterPath="$PROJECT_DIR$/css/task8.2.css" />
+      <change beforePath="$PROJECT_DIR$/css/task8.3.css" afterPath="$PROJECT_DIR$/css/task8.3.css" />
       <change beforePath="$PROJECT_DIR$/css/task8.css" afterPath="$PROJECT_DIR$/css/task8.css" />
+      <change beforePath="$PROJECT_DIR$/css/text.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/html/task3.html" afterPath="$PROJECT_DIR$/html/task3.html" />
+      <change beforePath="$PROJECT_DIR$/html/task8.2.html" afterPath="$PROJECT_DIR$/html/task8.2.html" />
+      <change beforePath="$PROJECT_DIR$/html/task8.3.html" afterPath="$PROJECT_DIR$/html/task8.3.html" />
       <change beforePath="$PROJECT_DIR$/html/task8.html" afterPath="$PROJECT_DIR$/html/task8.html" />
-      <change beforePath="$PROJECT_DIR$/html/小课堂，.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/html/text.html" afterPath="" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="$PROJECT_DIR$/小课堂/PPT/2018.7.12-A.html" afterPath="$PROJECT_DIR$/小课堂/PPT/2018.7.12-A.html" />
       <change beforePath="$PROJECT_DIR$/小课堂/PPT/小课堂PPT模板.html" afterPath="$PROJECT_DIR$/小课堂/PPT/小课堂PPT模板.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -36,72 +41,64 @@
     </favorites_list>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.43073472">
+    <splitter split-orientation="horizontal" split-proportion="0.8085731">
       <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="task8.2.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/html/task8.2.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="25" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="text.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/html/text.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="380">
-                  <caret line="20" column="14" lean-forward="false" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="task8.3.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/html/task8.3.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="665">
-                  <caret line="63" column="8" lean-forward="false" selection-start-line="63" selection-start-column="8" selection-end-line="63" selection-end-column="8" />
-                  <folding>
-                    <element signature="n#style#0;n#hr#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#hr#0;n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#hr#0;n#div#7;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
+        <splitter split-orientation="horizontal" split-proportion="0.7623547">
+          <split-first>
+            <splitter split-orientation="horizontal" split-proportion="0.48473284">
+              <split-first>
+                <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+                  <file leaf-file-name="task8.3.html" pinned="false" current-in-tab="true">
+                    <entry file="file://$PROJECT_DIR$/html/task8.3.html">
+                      <provider selected="true" editor-type-id="text-editor">
+                        <state relative-caret-position="0">
+                          <caret line="18" column="54" lean-forward="false" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
+                          <folding />
+                        </state>
+                      </provider>
+                    </entry>
+                  </file>
+                </leaf>
+              </split-first>
+              <split-second>
+                <leaf>
+                  <file leaf-file-name="task8.2.html" pinned="false" current-in-tab="true">
+                    <entry file="file://$PROJECT_DIR$/html/task8.2.html">
+                      <provider selected="true" editor-type-id="text-editor">
+                        <state relative-caret-position="19">
+                          <caret line="39" column="10" lean-forward="false" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
+                          <folding />
+                        </state>
+                      </provider>
+                    </entry>
+                  </file>
+                </leaf>
+              </split-second>
+            </splitter>
+          </split-first>
+          <split-second>
+            <leaf>
+              <file leaf-file-name="task8.2.css" pinned="false" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/css/task8.2.css">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="517">
+                      <caret line="80" column="26" lean-forward="false" selection-start-line="80" selection-start-column="26" selection-end-line="80" selection-end-column="26" />
+                      <folding />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+            </leaf>
+          </split-second>
+        </splitter>
       </split-first>
       <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="task8.2.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/css/task8.2.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="646">
-                  <caret line="34" column="16" lean-forward="false" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="task8.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/css/task8.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="646">
-                  <caret line="34" column="16" lean-forward="false" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
+        <leaf>
           <file leaf-file-name="task8.3.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/task8.3.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="627">
-                  <caret line="33" column="12" lean-forward="false" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+                <state relative-caret-position="684">
+                  <caret line="36" column="26" lean-forward="false" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="26" />
                   <folding />
                 </state>
               </provider>
@@ -114,8 +111,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -124,6 +121,12 @@
       <find>width</find>
       <find>4/`</find>
       <find>svn</find>
+      <find>av</find>
+      <find>regard</find>
+      <find>h</find>
+      <find>h4</find>
+      <find>pr</find>
+      <find>rega</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -132,10 +135,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/html/task3.html" />
-        <option value="$PROJECT_DIR$/css/小课堂.css" />
-        <option value="$PROJECT_DIR$/html/小课堂.html" />
-        <option value="$PROJECT_DIR$/小课堂/PPT/1050-css-1.html" />
         <option value="$PROJECT_DIR$/css/task4.css" />
         <option value="$PROJECT_DIR$/css/task5.css" />
         <option value="$PROJECT_DIR$/html/test.html" />
@@ -147,7 +146,6 @@
         <option value="$PROJECT_DIR$/html/......html" />
         <option value="$PROJECT_DIR$/css/task6.css" />
         <option value="$PROJECT_DIR$/html/task5.html" />
-        <option value="$PROJECT_DIR$/小课堂/PPT/小课堂PPT模板.html" />
         <option value="$PROJECT_DIR$/css/djc.html" />
         <option value="$PROJECT_DIR$/小课堂/PPT/小课堂...html" />
         <option value="$PROJECT_DIR$/小课堂/PPT/2018.5.30-A组.html" />
@@ -167,22 +165,27 @@
         <option value="$PROJECT_DIR$/html/小课堂，.html" />
         <option value="$PROJECT_DIR$/html/dome.html" />
         <option value="$PROJECT_DIR$/css/task.8.2.css" />
-        <option value="$PROJECT_DIR$/html/task8.html" />
         <option value="$PROJECT_DIR$/css/task.8.3.css.html" />
         <option value="$PROJECT_DIR$/css/task..css" />
         <option value="$PROJECT_DIR$/css/task.8.3.html.css" />
-        <option value="$PROJECT_DIR$/css/task8.2.css" />
-        <option value="$PROJECT_DIR$/css/task8.css" />
         <option value="$PROJECT_DIR$/html/dfgeger.html" />
         <option value="$PROJECT_DIR$/html/sada.html" />
-        <option value="$PROJECT_DIR$/html/task8.2.html" />
         <option value="$PROJECT_DIR$/html/fgfhxfg.html" />
         <option value="$PROJECT_DIR$/html/saefw.html" />
-        <option value="$PROJECT_DIR$/css/task8.3.css" />
-        <option value="$PROJECT_DIR$/小课堂/PPT/2018.7.12-A.html" />
-        <option value="$PROJECT_DIR$/css/text.css" />
+        <option value="$PROJECT_DIR$/html/task3.html" />
         <option value="$PROJECT_DIR$/html/text.html" />
+        <option value="$PROJECT_DIR$/css/text.css" />
+        <option value="$PROJECT_DIR$/小课堂/PPT/2018.7..html" />
+        <option value="$PROJECT_DIR$/小课堂/PPT/2018.7.23-Ahtml" />
+        <option value="$PROJECT_DIR$/css/task8.2.css" />
         <option value="$PROJECT_DIR$/html/task8.3.html" />
+        <option value="$PROJECT_DIR$/css/task8.3.css" />
+        <option value="$PROJECT_DIR$/css/task8.css" />
+        <option value="$PROJECT_DIR$/html/task8.html" />
+        <option value="$PROJECT_DIR$/html/task8.2.html" />
+        <option value="$PROJECT_DIR$/小课堂/PPT/小课堂PPT模板.html" />
+        <option value="$PROJECT_DIR$/小课堂/PPT/2018.7.12-A.html" />
+        <option value="$PROJECT_DIR$/小课堂/PPT/2018.7.23-A.html" />
       </list>
     </option>
   </component>
@@ -193,8 +196,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="990" />
-    <option name="width" value="882" />
+    <option name="x" value="-4" />
+    <option name="width" value="967" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -274,6 +277,19 @@
               <item name="task" type="b2602c69:ProjectViewProjectNode" />
               <item name="task" type="462c0819:PsiDirectoryNode" />
               <item name="小课堂" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="task" type="b2602c69:ProjectViewProjectNode" />
+              <item name="task" type="462c0819:PsiDirectoryNode" />
+              <item name="小课堂" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="task" type="b2602c69:ProjectViewProjectNode" />
+              <item name="task" type="462c0819:PsiDirectoryNode" />
+              <item name="小课堂" type="462c0819:PsiDirectoryNode" />
               <item name="PPT" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -290,14 +306,15 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\task\小课堂\css\img" />
+      <recent name="G:\task\小课堂\lib\reveal\img" />
       <recent name="G:\task\img" />
       <recent name="G:\task\audio" />
       <recent name="G:\task\小课堂\lib" />
-      <recent name="D:\task\img" />
-      <recent name="D:\task\小课堂\PPT" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="G:\task\img" />
@@ -494,14 +511,23 @@
       <workItem from="1531271525335" duration="14411000" />
       <workItem from="1531360600431" duration="6974000" />
       <workItem from="1531449723072" duration="2408000" />
-      <workItem from="1531466512412" duration="4572000" />
-    </task>
-    <task id="LOCAL-00003" summary="15156">
-      <created>1521279111486</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1521279111486</updated>
+      <workItem from="1531466512412" duration="7480000" />
+      <workItem from="1531529681551" duration="8022000" />
+      <workItem from="1531561844419" duration="1143000" />
+      <workItem from="1531567944778" duration="1260000" />
+      <workItem from="1531631263670" duration="298000" />
+      <workItem from="1531704007672" duration="7524000" />
+      <workItem from="1531790958933" duration="9329000" />
+      <workItem from="1531880759115" duration="1174000" />
+      <workItem from="1531963490166" duration="9013000" />
+      <workItem from="1532048899530" duration="6410000" />
+      <workItem from="1532092402558" duration="17200000" />
+      <workItem from="1532134437610" duration="13289000" />
+      <workItem from="1532307658379" duration="15722000" />
+      <workItem from="1532394411992" duration="7643000" />
+      <workItem from="1532419128429" duration="1980000" />
+      <workItem from="1532481075914" duration="154000" />
+      <workItem from="1532483371893" duration="2131000" />
     </task>
     <task id="LOCAL-00004" summary="15156">
       <created>1521280635632</created>
@@ -839,11 +865,18 @@
       <option name="project" value="LOCAL" />
       <updated>1530263869132</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="11">
+      <created>1531487484927</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1531487484927</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1172519000" />
+    <option name="totallyTimeSpent" value="1277719000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -858,23 +891,23 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13909379" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10273973" sideWeight="0.4961915" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32861805" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="消息" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32752994" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24922119" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.09536354" sideWeight="0.5038085" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297062" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="消息" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827735" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -895,7 +928,7 @@
       <window_info id="消息" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827735" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09114858" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09536354" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -926,59 +959,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/pttt.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/task.8..png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/task888png.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/360软件管家.lnk" />
-    <entry file="file://$PROJECT_DIR$/小课堂/PPT/2018.6.18.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="664">
-          <caret line="148" column="16" lean-forward="true" selection-start-line="148" selection-start-column="16" selection-end-line="148" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/task-5.1png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/task8.288.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/task8.a.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/task8.Avatar1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/task8.28.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/task8.253.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/task.8.3.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1023,13 +1003,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/task3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/html/小课堂，.html" />
     <entry file="file://$PROJECT_DIR$/html/dome.html" />
     <entry file="file://$PROJECT_DIR$/css/task7.css">
@@ -1057,30 +1030,9 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/task7.2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="14" column="22" lean-forward="false" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/task5.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="51" column="4" lean-forward="false" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/task.8.3.css.html" />
     <entry file="file://$PROJECT_DIR$/css/task..css" />
     <entry file="file://$PROJECT_DIR$/css/task.8.3.html.css" />
-    <entry file="file://$PROJECT_DIR$/html/task8.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/task7.3css.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -1104,53 +1056,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/html/dfgeger.html" />
     <entry file="file://$PROJECT_DIR$/html/sada.html" />
-    <entry file="file://$PROJECT_DIR$/小课堂/PPT/小课堂PPT模板.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1995">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="264" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/html/fgfhxfg.html" />
     <entry file="file://$PROJECT_DIR$/html/saefw.html" />
-    <entry file="file://$PROJECT_DIR$/css/text.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/小课堂/PPT/2018.7.12-A.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="679">
-          <caret line="139" column="23" lean-forward="true" selection-start-line="139" selection-start-column="23" selection-end-line="139" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/task8.2.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="34" column="16" lean-forward="false" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/task8.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="34" column="16" lean-forward="false" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/task8.3.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="33" column="12" lean-forward="false" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/block.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
@@ -1159,31 +1066,148 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/task8.2.html">
+    <entry file="file://$PROJECT_DIR$/css/task5.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="25" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/task1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/task1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="15" lean-forward="true" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/task.8.31.png" />
+    <entry file="file://$PROJECT_DIR$/img/task8.3.21png" />
+    <entry file="file://$PROJECT_DIR$/css/task3.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/text.css" />
+    <entry file="file://$PROJECT_DIR$/html/text.html" />
+    <entry file="file://$PROJECT_DIR$/html/task6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/task5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="41" column="10" lean-forward="false" selection-start-line="41" selection-start-column="10" selection-end-line="41" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/task4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/task3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="23" lean-forward="true" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/task7.2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="14" column="22" lean-forward="false" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/小课堂/PPT/2018.7.23-Ahtml" />
+    <entry file="file://$PROJECT_DIR$/css/task8.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="859">
+          <caret line="79" column="0" lean-forward="false" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/task8.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="36" column="22" lean-forward="false" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/text.html">
+    <entry file="file://$PROJECT_DIR$/小课堂/css/img">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/小课堂/PPT/2018.7.12-A.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="14" lean-forward="false" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        <state relative-caret-position="755">
+          <caret line="182" column="7" lean-forward="true" selection-start-line="182" selection-start-column="7" selection-end-line="182" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/小课堂/PPT/2018.7.23-A.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="832">
+          <caret line="182" column="7" lean-forward="false" selection-start-line="182" selection-start-column="7" selection-end-line="182" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/小课堂/PPT/小课堂PPT模板.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1064">
+          <caret line="77" column="22" lean-forward="true" selection-start-line="77" selection-start-column="22" selection-end-line="77" selection-end-column="22" />
+          <folding>
+            <element signature="n#style#0;n#section#9;n#section#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/task8.3.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="36" column="26" lean-forward="false" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html/task8.3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="63" column="8" lean-forward="false" selection-start-line="63" selection-start-column="8" selection-end-line="63" selection-end-column="8" />
-          <folding>
-            <element signature="n#style#0;n#hr#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#hr#0;n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#hr#0;n#div#7;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="18" column="54" lean-forward="false" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/task8.2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="39" column="10" lean-forward="false" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/task8.2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="80" column="26" lean-forward="false" selection-start-line="80" selection-start-column="26" selection-end-line="80" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>

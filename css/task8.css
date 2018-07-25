@@ -29,37 +29,58 @@
     margin-top: 3.5rem;
 }
 .page{
+    color: #ffffff;
     margin-right: 1.5rem;
 }
-.page:hover{
+.page a{
+    color: #ffffff;
+    text-decoration:blink;
+}
+.page a:hover{
     color: #fff;
     border-bottom: 4px solid #fff;
-    padding-bottom: 2.6rem;
+    padding-bottom: 2.9rem;
+    text-decoration:blink;
 }
 .profession{
     margin-right: 1.5rem;
+    text-decoration:blink
 }
-.profession:hover{
+.profession a{
+    color: #ffffff;
+    text-decoration:blink;
+}
+.profession a:hover{
+    text-decoration:blink;
     color: #fff;
     border-bottom: 4px solid #fff;
-    padding-bottom: 2.6rem;
+    padding-bottom: 2.9rem;
 }
 .recommend{
+    color: #ffffff;
     margin-right: 1.5rem;
 }
-.recommend:hover{
+.recommend a{
+    color: #ffffff;
+    text-decoration:blink;
+}
+.recommend a:hover{
     color: #fff;
     border-bottom: 4px solid #fff;
-    padding-bottom: 2.6rem;
+    padding-bottom: 2.9rem;
+    text-decoration:blink;
 }
-.regard{
-   margin-right: 1.5rem;
+.regard a{
+    color: #ffffff;
+    text-decoration:blink;
 }
-.regard:hover{
+.regard a:hover{
     color: #fff;
     border-bottom: 4px solid #fff;
-    padding-bottom: 2.6rem;
+    padding-bottom: 2.9rem;
+    text-decoration:blink;
 }
+
 .first-row {
     margin: 10rem 0;
 }

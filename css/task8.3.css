@@ -29,38 +29,58 @@
     margin-top: 3.5rem;
 }
 .page{
+    color: #ffffff;
     margin-right: 1.5rem;
 }
-.page:hover{
+.page a{
+    color: #ffffff;
+    text-decoration:blink;
+}
+.page a:hover{
     color: #fff;
-    background-color: transparent;
     border-bottom: 4px solid #fff;
-    padding-bottom: 2.6rem;
+    padding-bottom: 2.9rem;
+    text-decoration:blink;
 }
 .profession{
     margin-right: 1.5rem;
+    text-decoration:blink
 }
-.profession:hover{
+.profession a{
+    color: #ffffff;
+    text-decoration:blink;
+}
+.profession a:hover{
+    text-decoration:blink;
     color: #fff;
     border-bottom: 4px solid #fff;
-    padding-bottom: 2.6rem;
+    padding-bottom: 2.9rem;
 }
 .recommend{
+    color: #ffffff;
     margin-right: 1.5rem;
 }
-.recommend:hover{
+.recommend a{
+    color: #ffffff;
+    text-decoration:blink;
+}
+.recommend a:hover{
     color: #fff;
     border-bottom: 4px solid #fff;
-    padding-bottom: 2.6rem;
+    padding-bottom: 2.9rem;
+    text-decoration:blink;
 }
-.regard{
-    margin-right: 1.5rem;
+.regard a{
+    color: #ffffff;
+    text-decoration:blink;
 }
-.regard:hover{
+.regard a:hover{
     color: #fff;
     border-bottom: 4px solid #fff;
-    padding-bottom: 2.6rem;
+    padding-bottom: 2.9rem;
+    text-decoration:blink;
 }
+
 .pag{
     margin-top: 2rem;
 }
@@ -70,4 +90,146 @@
 .text-career span:hover{
     background: #29b078;
     color: #ffffff;
+}
+.circle{
+    margin-bottom: 2rem;
+    border: 1px solid #ddd;
+    border-radius: 0.5rem;
+    background: #ffffff;
+}
+.talents{
+    margin: 8px;
+    height: 11rem;
+    width:10rem;
+    float: left;
+    padding: .10rem;
+}
+.introduce h5{
+    margin-top: 1rem;
+}
+.wrapper1{
+    display: grid;
+    margin-top: 2.6rem;
+    grid-template-columns:50% 50%;
+    grid-template-rows: 3rem 3rem;
+}
+.item1{
+    border: 1px solid #edf1f2;
+    color: #b0b0b0;
+}
+.item2{
+    border: 1px solid #edf1f2;
+    color: #b0b0b0;
+}
+.item3{
+    border: 1px solid #edf1f2;
+    color: #b0b0b0;
+}
+.item4{
+    border: 1px solid #edf1f2;
+    color: #b0b0b0;
+}
+.mul{
+    color: #f01400;
+    padding-top: 0.5rem;
+    padding-left: 8rem;
+    position: absolute;
+}
+.bop{
+    padding-left: 1rem;
+    position: absolute;
+    padding-top: 0.5rem;
+}
+.bor{
+    padding-left: 1rem;
+    position: absolute;
+    padding-top: 0.5rem;
+}
+.item1 img{
+    padding-left: 4rem;
+    padding-top: 0.6rem;
+}
+.lov{
+    margin-left: 7rem;
+    margin-top: 0.5rem;
+}
+.lvo{
+    margin-top: 0.5rem;
+}
+.wrapper2{
+    display: grid;
+    grid-template-columns:40% 60%;
+    grid-template-rows: 40px 40px 40px;
+}
+.item5{
+    border: 1px solid #edf1f2;
+    grid-row-start: 1;
+    grid-row-end: 4;
+}
+.item5 p{
+    text-align: center;
+    margin-top: 4rem;
+    color: #b0b0b0;
+}
+.item6{
+    border: 1px solid #edf1f2;
+}
+.item7{
+    border: 1px solid #edf1f2;
+}
+.item8{
+    border: 1px solid #edf1f2;
+}
+.year{
+margin-left: 1rem;
+}
+.month{
+    float:right;
+    margin-right: 1rem;
+}
+.wrapper3{
+    display: grid;
+    grid-template-columns:100%;
+    grid-template-rows: 40px 60px;
+}
+.item9{
+    border: 1px solid #edf1f2;
+}
+.fir{
+    position: absolute;
+    padding-left: 2rem;
+    padding-top: 0.5rem;
+}
+.fiu{
+    position: absolute;
+    color: #f01400;
+    padding-top: 0.5rem;
+    padding-left: 3.5rem;
+}
+.vd{
+    position: absolute;
+    padding-top: 0.5rem;
+    padding-left: 5.5rem;
+}
+.item10{
+    position: absolute;
+    color: #a9a9a9;
+    text-indent:1.5rem;
+    padding-top: 4rem;
+}
+footer {
+    color: #ffffff;
+    background: #29b078;
+    width: 100%;
+}
+.trick{
+    display: block;
+    height: 15rem;
+}
+.djc{
+    margin-top: 3rem;
+}
+.dj{
+    margin-top: 3rem;
+    float: right;
 }
