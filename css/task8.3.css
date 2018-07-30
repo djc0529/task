@@ -97,6 +97,7 @@
     border-radius: 0.5rem;
     background: #ffffff;
 }
+.circle:hover{}
 .talents{
     margin: 8px;
     height: 11rem;
@@ -232,4 +233,33 @@ footer {
 .dj{
     margin-top: 3rem;
     float: right;
+}
+.hidden-text {
+    visibility: hidden;
+    position: absolute;
+    width:93%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin-left: 13px;
+    margin-bottom: 20px;
+    margin-right: 5%;
+    padding: 30px;
+    word-break: break-all;
+    background: rgba(0, 0, 0,.7);
+    color: white;
+    transition: transform 2s;
+    border: 1px solid #edf1f2;
+
+}
+h5 {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+
+.circle:hover .hidden-text {
+    visibility: visible;
+    transform: rotate(360deg);
 }
