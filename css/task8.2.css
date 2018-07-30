@@ -138,6 +138,9 @@
     margin-right: 3rem;
     margin-bottom: 3rem;
 }
+.cot{
+    background: #ffffff;
+}
 footer {
     color: #ffffff;
     background: #29b078;
@@ -155,3 +158,21 @@ footer {
     float: right;
 }
 
+.about{
+    border-right:2px solid #ffffff;
+    padding-right:3px;
+}
+.straw{
+    margin-right: 20px;
+}
+.straw:hover{
+    border-bottom: 2px solid #ffffff;
+    margin-right: 20px;
+}
+.jd{
+    width: 18rem;
+}
+.vdf{
+    background-color: #26a26f;
+    text-align: center;
+}
